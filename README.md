@@ -18,7 +18,6 @@ Do you need to create a web page that lists the people in your team? Use this co
 3. Add additional members by selecting a role.
 4. After all members have been added, your HTML will be generated in the `output/` folder.
 
-![](readme_assets/cli_preview.gif)
 
 ## Example
 
